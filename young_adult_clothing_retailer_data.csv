@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,ProductCategory,PurchaseAmount,PurchaseDate
+ID1000,28,Female,Streetwear,113.94,2024-02-20
+ID1001,24,Male,Outerwear,84.25,2024-12-17
+ID1002,24,Male,Athleisure,54.75,2024-07-07
+ID1003,28,Male,Outerwear,117.95,2024-10-05
+ID1004,22,Male,Casual Wear,78.92,2024-11-26
+ID1005,18,Male,Streetwear,117.67,2024-07-02
+ID1006,25,Male,Streetwear,139.22,2024-02-01
+ID1007,24,Male,Casual Wear,26.96,2024-07-22
+ID1008,21,Male,Streetwear,92.19,2024-05-21
+ID1009,18,Female,Streetwear,52.98,2024-04-07
+ID1010,22,Male,Outerwear,117.17,2024-03-03
+ID1011,27,Male,Accessories,32.69,2024-08-20
+ID1012,24,Female,Casual Wear,22.12,2024-02-16
+ID1013,24,Male,Streetwear,69.88,2024-12-05
+ID1014,18,Male,Accessories,37.75,2024-04-18
+ID1015,28,Female,Athleisure,79.04,2024-11-24
+ID1016,20,Female,Accessories,22.72,2024-11-23
+ID1017,18,Female,Casual Wear,67.14,2024-11-01
+ID1018,23,Male,Athleisure,102.85,2024-01-11
+ID1019,27,Male,Streetwear,50.65,2024-01-26
+ID1020,27,Female,Accessories,43.2,2024-06-19
+ID1021,18,Male,Footwear,137.74,2024-05-04
+ID1022,29,Male,Streetwear,84.03,2024-03-05
+ID1023,27,Male,Streetwear,65.55,2024-10-16
+ID1024,19,Female,Accessories,48.5,2024-04-15
+ID1025,27,Male,Accessories,26.78,2024-02-05
+ID1026,29,Male,Casual Wear,27.42,2024-10-10
+ID1027,29,Male,Accessories,18.39,2024-04-16
+ID1028,23,Female,Accessories,44.66,2024-10-27
+ID1029,19,Female,Streetwear,110.37,2024-04-20
+ID1030,25,Male,Accessories,43.25,2024-04-29
+ID1031,30,Female,Casual Wear,78.38,2024-06-17
+ID1032,21,Female,Casual Wear,62.9,2024-03-16
+ID1033,30,Female,Casual Wear,97.85,2024-11-01
+ID1034,18,Male,Streetwear,87.85,2024-01-02
+ID1035,26,Male,Accessories,34.32,2024-05-21
+ID1036,18,Male,Accessories,44.03,2024-03-15
+ID1037,23,Male,Outerwear,185.15,2024-03-07
+ID1038,21,Female,Streetwear,136.17,2024-10-03
+ID1039,27,Female,Streetwear,107.74,2024-05-08
+ID1040,28,Female,Streetwear,120.46,2024-03-30
+ID1041,26,Female,Athleisure,34.12,2024-02-26
+ID1042,23,Male,Casual Wear,38.23,2024-12-04
+ID1043,28,Male,Casual Wear,43.15,2024-01-14
+ID1044,28,Male,Casual Wear,26.38,2024-03-08
+ID1045,26,Male,Streetwear,73.28,2024-01-08
+ID1046,22,Female,Streetwear,60.1,2024-07-02
+ID1047,21,Non-Binary,Accessories,24.73,2024-05-01
+ID1048,22,Female,Streetwear,113.57,2024-10-28
+ID1049,19,Male,Streetwear,86.48,2024-06-14
+ID1050,26,Male,Accessories,27.96,2024-01-09
+ID1051,19,Non-Binary,Casual Wear,36.76,2024-03-30
+ID1052,22,Female,Accessories,24.34,2024-05-15
+ID1053,25,Male,Casual Wear,94.93,2024-01-27
+ID1054,23,Female,Accessories,37.68,2024-03-05
+ID1055,28,Female,Footwear,125.28,2024-08-03
+ID1056,28,Male,Streetwear,67.11,2024-09-26
+ID1057,18,Male,Accessories,40.52,2024-02-28
+ID1058,29,Male,Streetwear,66.34,2024-02-02
+ID1059,18,Male,Accessories,28.28,2024-08-31
+ID1060,28,Female,Casual Wear,99.16,2024-08-17
+ID1061,25,Male,Casual Wear,71.2,2024-07-04
+ID1062,22,Male,Casual Wear,64.56,2024-09-19
+ID1063,24,Male,Streetwear,118.46,2024-10-30
+ID1064,23,Female,Accessories,44.5,2024-02-25
+ID1065,23,Female,Casual Wear,82.08,2024-08-19
+ID1066,30,Male,Streetwear,72.9,2024-09-14
+ID1067,18,Female,Casual Wear,22.57,2024-04-23
+ID1068,20,Female,Casual Wear,45.24,2024-11-10
+ID1069,29,Male,Athleisure,54.1,2024-01-23
+ID1070,21,Female,Casual Wear,36.88,2024-12-03
+ID1071,22,Female,Casual Wear,95.43,2024-09-23
+ID1072,19,Male,Accessories,45.67,2024-06-03
+ID1073,23,Female,Casual Wear,45.17,2024-08-22
+ID1074,25,Female,Athleisure,88.99,2024-11-25
+ID1075,23,Male,Streetwear,89.56,2024-01-16
+ID1076,19,Male,Casual Wear,93.16,2024-02-01
+ID1077,22,Female,Streetwear,95.89,2024-09-02
+ID1078,27,Male,Streetwear,76.49,2024-07-24
+ID1079,26,Male,Casual Wear,39.73,2024-08-06
+ID1080,27,Male,Streetwear,106.14,2024-12-17
+ID1081,21,Male,Casual Wear,41.02,2024-02-25
+ID1082,18,Female,Casual Wear,66.77,2024-09-08
+ID1083,19,Female,Outerwear,232.63,2024-12-30
+ID1084,23,Female,Accessories,28.98,2024-08-15
+ID1085,27,Male,Casual Wear,37.55,2024-02-07
+ID1086,21,Female,Streetwear,149.75,2024-02-11
+ID1087,22,Male,Athleisure,75.86,2024-06-13
+ID1088,24,Female,Casual Wear,27.27,2024-11-07
+ID1089,25,Male,Casual Wear,23.77,2024-03-16
+ID1090,30,Female,Streetwear,60.96,2024-02-03
+ID1091,23,Female,Athleisure,86.47,2024-03-05
+ID1092,19,Male,Streetwear,129.21,2024-05-20
+ID1093,20,Female,Streetwear,92.22,2024-11-15
+ID1094,24,Female,Casual Wear,25.08,2024-11-20
+ID1095,30,Female,Streetwear,88.16,2024-10-26
+ID1096,22,Female,Athleisure,119.65,2024-10-07
+ID1097,24,Female,Streetwear,102.91,2024-12-30
+ID1098,29,Female,Streetwear,147.11,2024-06-15
+ID1099,22,Female,Accessories,45.13,2024-07-14
+ID1100,25,Male,Streetwear,51.15,2024-11-01
+ID1101,30,Male,Streetwear,122.07,2024-09-28
+ID1102,27,Female,Casual Wear,74.54,2024-05-30
+ID1103,19,Female,Casual Wear,62.96,2024-08-20
+ID1104,18,Male,Footwear,77.36,2024-09-15
+ID1105,24,Female,Streetwear,114.1,2024-11-05
+ID1106,28,Female,Footwear,55.62,2024-08-08
+ID1107,28,Male,Streetwear,93.48,2024-02-20
+ID1108,21,Male,Casual Wear,56.3,2024-12-25
+ID1109,21,Male,Casual Wear,96.31,2024-02-28
+ID1110,19,Female,Accessories,45.65,2024-12-01
+ID1111,27,Female,Accessories,24.22,2024-11-29
+ID1112,26,Female,Casual Wear,60.05,2024-10-09
+ID1113,25,Male,Streetwear,67.87,2024-04-20
+ID1114,18,Male,Athleisure,112.14,2024-08-08
+ID1115,29,Female,Streetwear,137.05,2024-08-19
+ID1116,25,Male,Streetwear,79.84,2024-04-26
+ID1117,23,Female,Streetwear,113.89,2024-07-30
+ID1118,22,Female,Athleisure,84.81,2024-06-22
+ID1119,21,Female,Streetwear,65.28,2024-08-20
+ID1120,21,Male,Streetwear,126.25,2024-07-23
+ID1121,26,Female,Streetwear,103.94,2024-07-31
+ID1122,25,Female,Streetwear,127.86,2024-02-18
+ID1123,26,Non-Binary,Streetwear,103.04,2024-06-09
+ID1124,25,Male,Accessories,15.02,2024-08-06
+ID1125,24,Male,Streetwear,82.42,2024-06-09
+ID1126,18,Female,Athleisure,31.75,2024-12-06
+ID1127,23,Female,Casual Wear,94.33,2024-05-10
+ID1128,24,Female,Accessories,45.76,2024-07-10
+ID1129,25,Female,Accessories,44.11,2024-03-19
+ID1130,28,Male,Footwear,83.05,2024-12-17
+ID1131,21,Male,Streetwear,55.79,2024-08-30
+ID1132,29,Female,Casual Wear,90.24,2024-02-04
+ID1133,30,Female,Streetwear,144.69,2024-02-16
+ID1134,24,Male,Accessories,18.0,2024-02-13
+ID1135,30,Male,Accessories,32.01,2024-02-17
+ID1136,22,Male,Streetwear,56.92,2024-08-09
+ID1137,26,Male,Accessories,41.62,2024-02-19
+ID1138,25,Female,Casual Wear,81.27,2024-07-09
+ID1139,19,Male,Streetwear,62.84,2024-03-07
+ID1140,19,Female,Casual Wear,58.02,2024-10-11
+ID1141,30,Female,Casual Wear,63.98,2024-01-31
+ID1142,21,Male,Casual Wear,41.2,2024-10-27
+ID1143,22,Female,Athleisure,108.52,2024-10-14
+ID1144,25,Male,Footwear,99.24,2024-10-14
+ID1145,27,Male,Outerwear,116.01,2024-06-17
+ID1146,26,Female,Streetwear,103.93,2024-12-09
+ID1147,18,Non-Binary,Casual Wear,78.39,2024-03-03
+ID1148,20,Female,Streetwear,70.12,2024-07-29
+ID1149,24,Male,Casual Wear,44.94,2024-06-30
+ID1150,24,Male,Streetwear,149.51,2024-12-06
+ID1151,28,Male,Streetwear,114.99,2024-08-04
+ID1152,26,Male,Athleisure,69.43,2024-01-27
+ID1153,20,Male,Streetwear,101.76,2024-05-27
+ID1154,27,Male,Casual Wear,29.68,2024-11-03
+ID1155,19,Male,Streetwear,72.47,2024-06-08
+ID1156,21,Male,Accessories,26.83,2024-06-29
+ID1157,20,Male,Outerwear,180.01,2024-02-23
+ID1158,20,Male,Accessories,23.05,2024-10-22
+ID1159,29,Female,Casual Wear,37.62,2024-09-16
+ID1160,27,Male,Streetwear,57.1,2024-04-18
+ID1161,18,Female,Casual Wear,70.49,2024-03-20
+ID1162,26,Female,Casual Wear,38.32,2024-12-02
+ID1163,18,Male,Casual Wear,92.43,2024-09-03
+ID1164,23,Male,Footwear,160.35,2024-04-24
+ID1165,26,Female,Accessories,17.48,2024-02-25
+ID1166,20,Female,Footwear,73.32,2024-06-28
+ID1167,20,Female,Casual Wear,73.52,2024-10-11
+ID1168,26,Male,Streetwear,71.42,2024-07-07
+ID1169,25,Male,Accessories,19.63,2024-02-28
+ID1170,23,Female,Accessories,47.74,2024-05-22
+ID1171,24,Non-Binary,Streetwear,107.1,2024-10-20
+ID1172,20,Female,Streetwear,97.27,2024-04-25
+ID1173,19,Male,Streetwear,128.46,2024-08-07
+ID1174,18,Female,Streetwear,130.75,2024-10-14
+ID1175,21,Female,Casual Wear,35.23,2024-11-14
+ID1176,19,Female,Casual Wear,27.75,2024-11-10
+ID1177,18,Male,Streetwear,93.11,2024-12-11
+ID1178,27,Male,Streetwear,92.36,2024-11-25
+ID1179,20,Female,Accessories,31.35,2024-10-12
+ID1180,24,Male,Casual Wear,78.33,2024-01-14
+ID1181,19,Male,Casual Wear,73.87,2024-11-07
+ID1182,22,Male,Streetwear,148.42,2024-12-02
+ID1183,26,Male,Streetwear,59.84,2024-12-21
+ID1184,27,Non-Binary,Athleisure,66.24,2024-05-16
+ID1185,23,Female,Casual Wear,47.14,2024-01-15
+ID1186,30,Female,Accessories,45.16,2024-04-02
+ID1187,20,Male,Streetwear,74.87,2024-05-19
+ID1188,28,Male,Casual Wear,35.22,2024-12-25
+ID1189,28,Female,Streetwear,94.86,2024-06-07
+ID1190,27,Female,Athleisure,67.97,2024-06-22
+ID1191,18,Female,Casual Wear,42.28,2024-06-28
+ID1192,30,Male,Streetwear,74.98,2024-01-04
+ID1193,21,Female,Casual Wear,93.86,2024-04-02
+ID1194,26,Male,Streetwear,94.31,2024-03-14
+ID1195,19,Female,Footwear,160.59,2024-10-16
+ID1196,19,Male,Casual Wear,64.03,2024-12-02
+ID1197,20,Female,Casual Wear,24.05,2024-07-24
+ID1198,26,Female,Casual Wear,99.94,2024-02-05
+ID1199,26,Male,Casual Wear,86.88,2024-03-13
+ID1200,24,Male,Streetwear,146.9,2024-11-20
+ID1201,28,Female,Streetwear,142.64,2024-01-16
+ID1202,28,Male,Outerwear,224.28,2024-02-16
+ID1203,29,Female,Outerwear,108.27,2024-09-28
+ID1204,23,Non-Binary,Accessories,32.0,2024-04-20
+ID1205,24,Male,Streetwear,71.37,2024-07-11
+ID1206,27,Female,Accessories,29.04,2024-08-02
+ID1207,30,Male,Casual Wear,24.69,2024-08-20
+ID1208,19,Male,Streetwear,87.9,2024-06-23
+ID1209,21,Male,Athleisure,118.68,2024-03-21
+ID1210,30,Female,Casual Wear,41.22,2024-07-08
+ID1211,19,Female,Outerwear,213.29,2024-06-08
+ID1212,25,Female,Casual Wear,56.4,2024-06-15
+ID1213,18,Female,Streetwear,92.3,2024-10-17
+ID1214,18,Non-Binary,Athleisure,116.16,2024-11-01
+ID1215,30,Male,Athleisure,119.59,2024-02-13
+ID1216,21,Male,Footwear,117.81,2024-01-27
+ID1217,28,Female,Athleisure,94.66,2024-03-20
+ID1218,21,Male,Casual Wear,32.38,2024-03-21
+ID1219,21,Female,Accessories,25.38,2024-11-12
+ID1220,22,Female,Streetwear,146.87,2024-01-26
+ID1221,22,Male,Streetwear,107.92,2024-12-11
+ID1222,21,Female,Casual Wear,63.38,2024-02-11
+ID1223,29,Non-Binary,Streetwear,124.8,2024-05-19
+ID1224,26,Male,Footwear,48.0,2024-08-14
+ID1225,29,Female,Streetwear,108.42,2024-12-04
+ID1226,25,Female,Accessories,32.6,2024-08-05
+ID1227,18,Female,Accessories,44.85,2024-09-05
+ID1228,29,Male,Streetwear,65.74,2024-11-06
+ID1229,23,Female,Athleisure,116.47,2024-08-14
+ID1230,26,Female,Streetwear,58.01,2024-07-31
+ID1231,26,Female,Accessories,21.5,2024-05-19
+ID1232,27,Male,Streetwear,109.5,2024-04-20
+ID1233,28,Female,Accessories,38.63,2024-09-19
+ID1234,30,Male,Casual Wear,38.82,2024-02-28
+ID1235,22,Female,Accessories,19.2,2024-06-25
+ID1236,23,Male,Accessories,46.16,2024-08-08
+ID1237,20,Female,Casual Wear,39.7,2024-02-26
+ID1238,29,Female,Streetwear,109.45,2024-05-25
+ID1239,25,Male,Casual Wear,69.55,2024-12-13
+ID1240,20,Female,Accessories,29.67,2024-12-13
+ID1241,26,Female,Casual Wear,66.69,2024-10-30
+ID1242,24,Female,Streetwear,102.28,2024-09-06
+ID1243,20,Male,Outerwear,238.9,2024-09-26
+ID1244,24,Male,Casual Wear,36.34,2024-12-07
+ID1245,21,Female,Accessories,40.07,2024-06-06
+ID1246,26,Female,Casual Wear,39.09,2024-01-24
+ID1247,18,Male,Accessories,28.85,2024-04-22
+ID1248,24,Female,Casual Wear,73.74,2024-07-21
+ID1249,19,Female,Casual Wear,44.0,2024-11-02
+ID1250,23,Male,Streetwear,81.62,2024-01-29
+ID1251,27,Female,Accessories,41.32,2024-01-04
+ID1252,24,Male,Streetwear,57.25,2024-04-14
+ID1253,24,Female,Casual Wear,56.66,2024-06-03
+ID1254,19,Female,Athleisure,119.86,2024-04-18
+ID1255,20,Female,Casual Wear,99.69,2024-03-11
+ID1256,21,Female,Casual Wear,25.86,2024-05-10
+ID1257,19,Female,Outerwear,116.24,2024-05-28
+ID1258,26,Female,Streetwear,76.52,2024-06-16
+ID1259,26,Female,Casual Wear,94.66,2024-03-02
+ID1260,27,Male,Streetwear,138.09,2024-01-04
+ID1261,24,Female,Streetwear,137.93,2024-09-11
+ID1262,20,Male,Athleisure,63.26,2024-08-08
+ID1263,21,Male,Accessories,20.52,2024-03-30
+ID1264,25,Female,Athleisure,105.04,2024-03-07
+ID1265,18,Female,Accessories,39.62,2024-07-13
+ID1266,21,Male,Outerwear,183.99,2024-09-29
+ID1267,28,Male,Streetwear,148.72,2024-12-26
+ID1268,22,Female,Streetwear,115.4,2024-04-27
+ID1269,18,Female,Accessories,15.27,2024-09-13
+ID1270,26,Female,Casual Wear,85.37,2024-10-13
+ID1271,26,Female,Streetwear,79.94,2024-12-08
+ID1272,28,Male,Streetwear,116.34,2024-06-30
+ID1273,29,Male,Streetwear,143.89,2024-02-06
+ID1274,21,Female,Casual Wear,30.74,2024-07-22
+ID1275,29,Male,Streetwear,61.54,2024-01-22
+ID1276,24,Male,Accessories,18.75,2024-08-11
+ID1277,19,Male,Streetwear,105.32,2024-01-10
+ID1278,29,Male,Casual Wear,41.79,2024-08-23
+ID1279,25,Non-Binary,Streetwear,110.48,2024-02-09
+ID1280,29,Female,Outerwear,201.99,2024-06-09
+ID1281,24,Female,Streetwear,70.36,2024-10-21
+ID1282,26,Male,Streetwear,113.42,2024-08-07
+ID1283,21,Male,Accessories,24.24,2024-10-20
+ID1284,19,Male,Accessories,32.1,2024-07-26
+ID1285,21,Female,Accessories,46.69,2024-12-29
+ID1286,21,Male,Casual Wear,87.69,2024-11-23
+ID1287,28,Female,Footwear,52.92,2024-08-01
+ID1288,30,Female,Streetwear,92.36,2024-05-28
+ID1289,24,Male,Streetwear,77.67,2024-02-28
+ID1290,21,Female,Athleisure,30.32,2024-07-26
+ID1291,28,Female,Casual Wear,81.69,2024-01-11
+ID1292,28,Female,Casual Wear,70.97,2024-06-15
+ID1293,21,Male,Outerwear,124.53,2024-03-28
+ID1294,24,Male,Athleisure,96.71,2024-11-12
+ID1295,25,Male,Streetwear,105.17,2024-08-23
+ID1296,18,Male,Casual Wear,54.21,2024-12-19
+ID1297,26,Male,Streetwear,50.97,2024-07-04
+ID1298,24,Female,Streetwear,57.52,2024-02-15
+ID1299,23,Male,Streetwear,138.31,2024-08-11
+ID1300,20,Female,Streetwear,140.39,2024-02-24
+ID1301,25,Male,Casual Wear,63.65,2024-05-04
+ID1302,18,Female,Accessories,44.21,2024-08-11
+ID1303,29,Female,Casual Wear,66.6,2024-10-28
+ID1304,21,Female,Outerwear,105.18,2024-07-24
+ID1305,26,Male,Casual Wear,30.2,2024-09-25
+ID1306,20,Male,Accessories,25.79,2024-02-10
+ID1307,28,Female,Accessories,46.46,2024-07-21
+ID1308,26,Female,Streetwear,129.61,2024-06-07
+ID1309,25,Male,Streetwear,136.07,2024-06-22
+ID1310,20,Female,Accessories,46.46,2024-04-23
+ID1311,18,Female,Athleisure,48.91,2024-06-19
+ID1312,26,Female,Streetwear,74.95,2024-03-27
+ID1313,29,Female,Athleisure,39.25,2024-02-09
+ID1314,18,Female,Outerwear,212.62,2024-09-18
+ID1315,30,Female,Accessories,45.94,2024-11-20
+ID1316,18,Female,Streetwear,90.64,2024-02-28
+ID1317,28,Female,Streetwear,112.07,2024-09-28
+ID1318,23,Female,Footwear,61.64,2024-09-18
+ID1319,21,Female,Casual Wear,94.39,2024-04-09
+ID1320,25,Male,Casual Wear,89.17,2024-06-27
+ID1321,27,Male,Accessories,49.17,2024-06-28
+ID1322,29,Male,Casual Wear,84.86,2024-11-26
+ID1323,20,Male,Athleisure,109.33,2024-03-16
+ID1324,18,Male,Outerwear,84.21,2024-04-30
+ID1325,28,Female,Streetwear,123.66,2024-02-22
+ID1326,19,Male,Accessories,26.63,2024-03-15
+ID1327,18,Male,Streetwear,143.08,2024-05-11
+ID1328,25,Male,Athleisure,102.2,2024-04-11
+ID1329,27,Male,Streetwear,136.41,2024-03-29
+ID1330,22,Male,Streetwear,131.07,2024-11-04
+ID1331,29,Male,Footwear,77.35,2024-03-19
+ID1332,20,Male,Accessories,42.56,2024-12-01
+ID1333,30,Female,Streetwear,60.81,2024-02-08
+ID1334,24,Male,Casual Wear,89.77,2024-03-31
+ID1335,19,Female,Athleisure,107.27,2024-11-17
+ID1336,23,Female,Streetwear,72.24,2024-09-09
+ID1337,27,Female,Streetwear,131.66,2024-08-25
+ID1338,18,Male,Accessories,31.11,2024-10-15
+ID1339,25,Female,Streetwear,80.52,2024-10-23
+ID1340,26,Male,Accessories,42.84,2024-08-17
+ID1341,26,Female,Footwear,71.86,2024-12-14
+ID1342,20,Male,Casual Wear,21.89,2024-10-16
+ID1343,29,Male,Streetwear,69.31,2024-11-25
+ID1344,18,Male,Casual Wear,46.26,2024-11-21
+ID1345,19,Male,Streetwear,136.44,2024-11-15
+ID1346,21,Female,Accessories,48.84,2024-06-14
+ID1347,27,Male,Casual Wear,42.33,2024-11-17
+ID1348,25,Female,Accessories,37.45,2024-06-10
+ID1349,26,Male,Streetwear,89.97,2024-03-18
+ID1350,23,Male,Casual Wear,98.49,2024-08-13
+ID1351,24,Female,Accessories,33.77,2024-02-04
+ID1352,22,Female,Streetwear,143.92,2024-08-28
+ID1353,28,Male,Streetwear,61.53,2024-08-14
+ID1354,29,Male,Casual Wear,97.63,2024-11-19
+ID1355,27,Female,Footwear,65.0,2024-06-04
+ID1356,24,Male,Streetwear,146.25,2024-05-20
+ID1357,21,Female,Streetwear,76.55,2024-10-29
+ID1358,22,Male,Casual Wear,28.67,2024-01-29
+ID1359,22,Male,Streetwear,93.46,2024-06-29
+ID1360,28,Male,Accessories,40.5,2024-09-16
+ID1361,18,Male,Athleisure,58.23,2024-02-07
+ID1362,29,Male,Athleisure,84.56,2024-06-07
+ID1363,22,Female,Athleisure,76.03,2024-08-24
+ID1364,30,Male,Streetwear,88.52,2024-08-19
+ID1365,18,Male,Accessories,35.18,2024-01-20
+ID1366,27,Female,Casual Wear,40.38,2024-01-30
+ID1367,20,Female,Casual Wear,76.7,2024-07-07
+ID1368,30,Male,Streetwear,50.17,2024-05-26
+ID1369,22,Female,Accessories,47.4,2024-02-09
+ID1370,26,Male,Casual Wear,63.08,2024-11-26
+ID1371,27,Female,Accessories,40.18,2024-02-16
+ID1372,28,Female,Athleisure,96.78,2024-11-10
+ID1373,25,Male,Streetwear,117.06,2024-10-31
+ID1374,24,Female,Streetwear,86.42,2024-09-16
+ID1375,26,Male,Streetwear,57.0,2024-07-15
+ID1376,21,Female,Casual Wear,73.14,2024-08-24
+ID1377,24,Female,Accessories,26.56,2024-10-24
+ID1378,30,Male,Streetwear,81.39,2024-10-10
+ID1379,18,Male,Outerwear,224.16,2024-01-22
+ID1380,28,Male,Casual Wear,77.58,2024-08-18
+ID1381,29,Male,Casual Wear,44.03,2024-10-19
+ID1382,25,Female,Outerwear,132.58,2024-11-29
+ID1383,23,Female,Casual Wear,52.67,2024-04-06
+ID1384,27,Male,Streetwear,90.24,2024-06-13
+ID1385,30,Female,Athleisure,56.61,2024-11-05
+ID1386,22,Male,Accessories,19.46,2024-08-31
+ID1387,25,Female,Casual Wear,53.64,2024-09-13
+ID1388,26,Male,Streetwear,144.04,2024-03-18
+ID1389,22,Male,Accessories,38.71,2024-02-01
+ID1390,26,Female,Accessories,46.6,2024-08-18
+ID1391,27,Male,Outerwear,184.64,2024-02-22
+ID1392,22,Female,Casual Wear,44.08,2024-06-24
+ID1393,30,Male,Streetwear,104.79,2024-12-31
+ID1394,18,Male,Casual Wear,20.03,2024-02-13
+ID1395,26,Female,Footwear,80.17,2024-09-15
+ID1396,29,Female,Streetwear,92.99,2024-11-26
+ID1397,30,Male,Accessories,35.3,2024-03-29
+ID1398,30,Female,Accessories,37.91,2024-01-21
+ID1399,23,Male,Accessories,31.27,2024-05-06
+ID1400,28,Male,Athleisure,69.79,2024-12-28
+ID1401,27,Male,Accessories,22.48,2024-08-12
+ID1402,26,Male,Casual Wear,57.85,2024-08-12
+ID1403,25,Female,Streetwear,140.12,2024-09-25
+ID1404,28,Male,Athleisure,101.64,2024-09-24
+ID1405,19,Male,Casual Wear,33.58,2024-11-08
+ID1406,29,Male,Streetwear,58.48,2024-03-22
+ID1407,19,Male,Streetwear,101.55,2024-07-05
+ID1408,26,Female,Accessories,37.15,2024-07-09
+ID1409,19,Male,Athleisure,60.17,2024-05-24
+ID1410,28,Female,Streetwear,131.84,2024-07-17
+ID1411,22,Female,Streetwear,125.11,2024-07-28
+ID1412,22,Male,Athleisure,90.55,2024-06-22
+ID1413,19,Female,Athleisure,50.22,2024-12-13
+ID1414,21,Male,Streetwear,69.91,2024-11-02
+ID1415,21,Female,Accessories,15.85,2024-01-27
+ID1416,20,Male,Accessories,23.57,2024-11-19
+ID1417,26,Female,Streetwear,97.51,2024-11-27
+ID1418,25,Female,Casual Wear,87.98,2024-06-20
+ID1419,30,Non-Binary,Casual Wear,25.83,2024-02-03
+ID1420,20,Female,Streetwear,91.44,2024-06-17
+ID1421,30,Male,Accessories,37.04,2024-02-18
+ID1422,20,Female,Athleisure,47.5,2024-10-12
+ID1423,29,Female,Outerwear,198.38,2024-12-13
+ID1424,20,Male,Casual Wear,59.55,2024-07-16
+ID1425,18,Male,Streetwear,74.4,2024-05-25
+ID1426,27,Male,Casual Wear,72.48,2024-05-09
+ID1427,30,Male,Casual Wear,20.44,2024-12-02
+ID1428,20,Non-Binary,Footwear,145.14,2024-11-04
+ID1429,24,Female,Casual Wear,81.6,2024-03-17
+ID1430,20,Female,Casual Wear,28.53,2024-06-19
+ID1431,27,Female,Casual Wear,54.01,2024-02-11
+ID1432,18,Female,Athleisure,45.83,2024-10-25
+ID1433,22,Male,Athleisure,116.22,2024-12-05
+ID1434,22,Male,Streetwear,101.8,2024-03-13
+ID1435,19,Male,Streetwear,55.02,2024-06-28
+ID1436,27,Male,Streetwear,74.92,2024-06-07
+ID1437,18,Female,Accessories,44.69,2024-12-01
+ID1438,18,Male,Streetwear,95.65,2024-12-23
+ID1439,26,Male,Streetwear,130.14,2024-12-05
+ID1440,18,Female,Accessories,38.37,2024-07-19
+ID1441,20,Male,Accessories,49.58,2024-03-07
+ID1442,27,Male,Streetwear,109.55,2024-10-31
+ID1443,26,Female,Streetwear,145.0,2024-12-28
+ID1444,19,Male,Casual Wear,91.31,2024-02-13
+ID1445,24,Male,Footwear,125.77,2024-06-07
+ID1446,19,Male,Casual Wear,77.54,2024-10-13
+ID1447,28,Male,Streetwear,100.48,2024-07-11
+ID1448,25,Male,Footwear,156.28,2024-11-25
+ID1449,26,Female,Streetwear,104.79,2024-06-17
+ID1450,27,Male,Accessories,46.4,2024-03-06
+ID1451,22,Male,Streetwear,124.37,2024-12-09
+ID1452,19,Male,Accessories,31.61,2024-12-25
+ID1453,27,Female,Streetwear,75.92,2024-12-16
+ID1454,30,Male,Accessories,23.65,2024-09-26
+ID1455,29,Female,Streetwear,113.77,2024-02-17
+ID1456,22,Female,Streetwear,126.58,2024-11-26
+ID1457,30,Female,Casual Wear,61.7,2024-12-09
+ID1458,24,Male,Athleisure,86.41,2024-08-04
+ID1459,30,Male,Streetwear,77.46,2024-09-17
+ID1460,25,Female,Streetwear,57.75,2024-07-04
+ID1461,30,Male,Casual Wear,42.86,2024-01-10
+ID1462,30,Female,Casual Wear,41.74,2024-07-04
+ID1463,27,Male,Athleisure,58.77,2024-06-07
+ID1464,24,Male,Athleisure,78.61,2024-04-02
+ID1465,21,Female,Outerwear,103.52,2024-04-19
+ID1466,23,Male,Streetwear,73.13,2024-06-23
+ID1467,25,Male,Accessories,39.29,2024-09-05
+ID1468,27,Male,Casual Wear,76.51,2024-04-08
+ID1469,21,Non-Binary,Athleisure,35.78,2024-04-25
+ID1470,27,Female,Streetwear,90.76,2024-03-11
+ID1471,27,Male,Streetwear,104.26,2024-03-20
+ID1472,29,Female,Casual Wear,53.26,2024-02-09
+ID1473,30,Male,Casual Wear,36.55,2024-05-31
+ID1474,27,Male,Streetwear,92.01,2024-02-21
+ID1475,18,Female,Streetwear,140.48,2024-09-16
+ID1476,30,Male,Athleisure,82.57,2024-10-03
+ID1477,18,Female,Casual Wear,75.64,2024-09-26
+ID1478,27,Male,Streetwear,135.67,2024-01-20
+ID1479,24,Male,Streetwear,126.56,2024-12-04
+ID1480,19,Female,Athleisure,64.23,2024-06-21
+ID1481,27,Male,Accessories,15.21,2024-11-12
+ID1482,27,Male,Casual Wear,48.14,2024-03-08
+ID1483,20,Male,Casual Wear,80.28,2024-11-01
+ID1484,21,Female,Casual Wear,88.28,2024-07-11
+ID1485,29,Female,Streetwear,145.34,2024-03-19
+ID1486,29,Female,Casual Wear,53.52,2024-03-24
+ID1487,20,Male,Streetwear,124.75,2024-04-02
+ID1488,22,Female,Streetwear,104.61,2024-12-20
+ID1489,22,Male,Casual Wear,68.26,2024-11-15
+ID1490,19,Non-Binary,Accessories,22.72,2024-03-25
+ID1491,21,Female,Accessories,22.68,2024-08-12
+ID1492,20,Female,Accessories,30.25,2024-01-23
+ID1493,22,Female,Casual Wear,22.32,2024-07-29
+ID1494,22,Male,Streetwear,83.61,2024-07-05
+ID1495,27,Male,Streetwear,117.91,2024-12-12
+ID1496,24,Female,Streetwear,90.43,2024-05-01
+ID1497,23,Non-Binary,Streetwear,66.5,2024-08-15
+ID1498,18,Female,Casual Wear,57.39,2024-11-08
+ID1499,21,Female,Streetwear,62.76,2024-05-25
+ID1500,21,Female,Footwear,127.12,2024-08-17
+ID1501,23,Male,Streetwear,52.7,2024-04-29
+ID1502,21,Male,Casual Wear,51.52,2024-09-30
+ID1503,30,Male,Accessories,34.75,2024-05-02
+ID1504,27,Female,Casual Wear,22.17,2024-06-07
+ID1505,23,Male,Streetwear,114.27,2024-08-28
+ID1506,24,Male,Streetwear,63.57,2024-04-09
+ID1507,21,Non-Binary,Streetwear,96.17,2024-07-07
+ID1508,24,Female,Accessories,16.76,2024-12-13
+ID1509,22,Male,Streetwear,87.91,2024-10-19
+ID1510,18,Female,Casual Wear,36.93,2024-08-13
+ID1511,30,Female,Athleisure,59.42,2024-08-24
+ID1512,25,Female,Athleisure,98.51,2024-05-24
+ID1513,21,Male,Outerwear,144.45,2024-07-14
+ID1514,25,Female,Streetwear,125.2,2024-09-14
+ID1515,19,Male,Streetwear,133.19,2024-09-27
+ID1516,26,Female,Streetwear,75.23,2024-08-02
+ID1517,25,Male,Streetwear,58.19,2024-03-23
+ID1518,24,Female,Accessories,15.68,2024-04-12
+ID1519,23,Female,Casual Wear,63.15,2024-11-05
+ID1520,22,Female,Casual Wear,99.99,2024-03-11
+ID1521,29,Male,Streetwear,85.0,2024-05-08
+ID1522,26,Male,Outerwear,190.52,2024-01-27
+ID1523,23,Male,Streetwear,128.12,2024-11-24
+ID1524,29,Male,Athleisure,88.66,2024-09-03
+ID1525,23,Female,Casual Wear,80.34,2024-07-09
+ID1526,28,Female,Streetwear,144.96,2024-10-10
+ID1527,22,Female,Streetwear,69.94,2024-02-22
+ID1528,22,Male,Accessories,15.71,2024-12-30
+ID1529,18,Female,Streetwear,65.24,2024-09-21
+ID1530,30,Male,Athleisure,41.36,2024-03-04
+ID1531,22,Female,Accessories,38.43,2024-05-25
+ID1532,20,Female,Streetwear,106.4,2024-02-12
+ID1533,19,Non-Binary,Accessories,22.63,2024-03-23
+ID1534,24,Female,Footwear,137.93,2024-05-19
+ID1535,26,Male,Streetwear,126.69,2024-08-18
+ID1536,21,Male,Streetwear,66.78,2024-09-19
+ID1537,19,Male,Streetwear,110.72,2024-03-16
+ID1538,21,Male,Casual Wear,79.83,2024-08-11
+ID1539,23,Male,Streetwear,61.45,2024-02-16
+ID1540,29,Male,Streetwear,131.93,2024-04-23
+ID1541,26,Female,Outerwear,244.0,2024-08-18
+ID1542,23,Female,Streetwear,60.81,2024-06-27
+ID1543,22,Female,Accessories,15.9,2024-01-14
+ID1544,28,Female,Athleisure,58.08,2024-07-31
+ID1545,18,Female,Casual Wear,74.19,2024-01-28
+ID1546,29,Male,Streetwear,145.82,2024-07-21
+ID1547,27,Male,Casual Wear,51.73,2024-09-14
+ID1548,27,Male,Streetwear,121.5,2024-07-10
+ID1549,21,Male,Streetwear,57.6,2024-04-30
+ID1550,28,Male,Accessories,39.17,2024-07-16
+ID1551,23,Male,Streetwear,112.72,2024-02-11
+ID1552,27,Female,Outerwear,97.32,2024-07-10
+ID1553,19,Female,Streetwear,127.25,2024-04-24
+ID1554,22,Male,Outerwear,224.55,2024-01-15
+ID1555,20,Female,Footwear,124.06,2024-06-12
+ID1556,26,Female,Streetwear,62.11,2024-02-20
+ID1557,23,Female,Footwear,177.74,2024-12-31
+ID1558,20,Female,Accessories,42.39,2024-11-28
+ID1559,18,Female,Athleisure,61.25,2024-06-20
+ID1560,27,Male,Casual Wear,54.27,2024-03-15
+ID1561,23,Female,Streetwear,87.06,2024-03-11
+ID1562,27,Male,Accessories,32.71,2024-01-20
+ID1563,19,Female,Casual Wear,47.3,2024-05-26
+ID1564,25,Female,Casual Wear,87.97,2024-08-29
+ID1565,30,Female,Streetwear,132.23,2024-12-22
+ID1566,25,Female,Accessories,18.69,2024-03-12
+ID1567,18,Non-Binary,Streetwear,146.08,2024-12-27
+ID1568,29,Female,Casual Wear,70.85,2024-08-28
+ID1569,21,Female,Footwear,156.02,2024-08-17
+ID1570,27,Female,Streetwear,120.73,2024-11-11
+ID1571,24,Male,Streetwear,93.55,2024-01-03
+ID1572,23,Female,Streetwear,123.38,2024-02-10
+ID1573,28,Male,Streetwear,146.55,2024-01-10
+ID1574,21,Female,Streetwear,77.01,2024-05-11
+ID1575,28,Non-Binary,Streetwear,130.82,2024-04-20
+ID1576,26,Male,Streetwear,103.82,2024-03-17
+ID1577,19,Female,Accessories,31.92,2024-10-07
+ID1578,21,Male,Streetwear,93.56,2024-11-07
+ID1579,27,Male,Streetwear,123.1,2024-09-27
+ID1580,27,Female,Streetwear,76.84,2024-08-04
+ID1581,27,Male,Casual Wear,88.14,2024-02-26
+ID1582,22,Female,Casual Wear,86.46,2024-05-27
+ID1583,26,Female,Streetwear,58.67,2024-05-01
+ID1584,25,Female,Casual Wear,90.53,2024-06-03
+ID1585,18,Male,Streetwear,74.39,2024-03-03
+ID1586,22,Male,Outerwear,159.0,2024-01-25
+ID1587,20,Female,Streetwear,111.03,2024-05-02
+ID1588,24,Male,Casual Wear,50.32,2024-08-02
+ID1589,20,Male,Casual Wear,22.3,2024-11-23
+ID1590,22,Female,Athleisure,106.59,2024-11-14
+ID1591,18,Male,Footwear,65.46,2024-08-22
+ID1592,20,Male,Footwear,69.7,2024-02-02
+ID1593,25,Female,Casual Wear,83.83,2024-02-26
+ID1594,27,Male,Streetwear,84.03,2024-09-12
+ID1595,21,Female,Casual Wear,90.43,2024-11-01
+ID1596,27,Male,Accessories,39.54,2024-10-01
+ID1597,26,Male,Streetwear,77.63,2024-01-09
+ID1598,24,Female,Streetwear,51.02,2024-11-19
+ID1599,21,Female,Casual Wear,95.85,2024-09-20
+ID1600,20,Female,Outerwear,94.55,2024-10-21
+ID1601,19,Female,Casual Wear,77.61,2024-05-03
+ID1602,19,Female,Streetwear,98.86,2024-03-14
+ID1603,18,Male,Streetwear,125.82,2024-05-29
+ID1604,20,Female,Athleisure,92.15,2024-08-07
+ID1605,22,Female,Athleisure,88.13,2024-01-01
+ID1606,27,Female,Streetwear,99.08,2024-11-10
+ID1607,28,Male,Casual Wear,83.43,2024-06-29
+ID1608,22,Non-Binary,Casual Wear,27.44,2024-05-03
+ID1609,29,Female,Accessories,22.76,2024-10-19
+ID1610,20,Male,Casual Wear,75.34,2024-08-01
+ID1611,25,Male,Outerwear,132.06,2024-04-05
+ID1612,29,Male,Casual Wear,66.52,2024-12-06
+ID1613,21,Male,Streetwear,97.33,2024-12-08
+ID1614,26,Female,Casual Wear,62.47,2024-02-13
+ID1615,19,Male,Streetwear,92.55,2024-09-25
+ID1616,21,Male,Streetwear,124.59,2024-07-03
+ID1617,30,Female,Streetwear,83.08,2024-02-04
+ID1618,18,Female,Streetwear,120.29,2024-09-26
+ID1619,19,Male,Accessories,24.48,2024-10-05
+ID1620,25,Male,Streetwear,75.14,2024-09-16
+ID1621,23,Female,Casual Wear,29.65,2024-09-16
+ID1622,22,Female,Streetwear,69.26,2024-10-10
+ID1623,25,Female,Casual Wear,29.56,2024-01-11
+ID1624,28,Female,Casual Wear,62.87,2024-07-18
+ID1625,29,Male,Casual Wear,80.98,2024-08-28
+ID1626,21,Male,Streetwear,68.51,2024-01-23
+ID1627,18,Female,Streetwear,71.64,2024-11-21
+ID1628,28,Female,Streetwear,98.42,2024-07-17
+ID1629,25,Male,Accessories,40.36,2024-07-10
+ID1630,26,Male,Streetwear,147.66,2024-05-09
+ID1631,20,Male,Casual Wear,61.97,2024-01-09
+ID1632,19,Male,Outerwear,128.11,2024-07-01
+ID1633,23,Male,Athleisure,39.05,2024-02-04
+ID1634,19,Male,Athleisure,47.47,2024-06-25
+ID1635,18,Male,Outerwear,118.67,2024-05-03
+ID1636,30,Female,Streetwear,67.94,2024-12-02
+ID1637,24,Female,Casual Wear,21.13,2024-11-17
+ID1638,22,Female,Streetwear,103.41,2024-02-23
+ID1639,25,Female,Streetwear,77.43,2024-10-24
+ID1640,19,Female,Streetwear,147.43,2024-06-19
+ID1641,24,Male,Streetwear,105.34,2024-03-09
+ID1642,18,Male,Accessories,39.41,2024-01-23
+ID1643,19,Male,Accessories,19.42,2024-06-29
+ID1644,23,Female,Streetwear,136.85,2024-10-06
+ID1645,20,Male,Accessories,32.18,2024-06-22
+ID1646,28,Male,Accessories,45.55,2024-11-25
+ID1647,25,Female,Casual Wear,65.93,2024-03-30
+ID1648,29,Male,Streetwear,96.94,2024-12-16
+ID1649,23,Male,Streetwear,94.05,2024-08-25
+ID1650,25,Female,Outerwear,111.34,2024-12-22
+ID1651,29,Female,Streetwear,55.14,2024-09-02
+ID1652,26,Female,Casual Wear,95.29,2024-11-19
+ID1653,25,Male,Casual Wear,58.22,2024-04-03
+ID1654,25,Male,Accessories,43.77,2024-03-10
+ID1655,27,Male,Accessories,29.02,2024-02-02
+ID1656,30,Female,Streetwear,57.41,2024-08-22
+ID1657,20,Male,Accessories,37.03,2024-01-19
+ID1658,21,Male,Casual Wear,24.29,2024-05-30
+ID1659,30,Female,Streetwear,64.92,2024-04-13
+ID1660,25,Female,Streetwear,106.28,2024-01-23
+ID1661,19,Male,Footwear,82.54,2024-04-12
+ID1662,26,Female,Streetwear,149.39,2024-01-22
+ID1663,24,Female,Streetwear,61.85,2024-06-10
+ID1664,22,Female,Athleisure,98.8,2024-06-07
+ID1665,28,Female,Athleisure,84.57,2024-09-20
+ID1666,18,Male,Streetwear,129.07,2024-07-22
+ID1667,21,Male,Streetwear,72.57,2024-10-05
+ID1668,21,Male,Streetwear,102.26,2024-08-30
+ID1669,20,Male,Casual Wear,56.04,2024-05-09
+ID1670,19,Female,Streetwear,94.27,2024-01-19
+ID1671,27,Female,Casual Wear,88.81,2024-11-27
+ID1672,26,Male,Footwear,178.6,2024-04-07
+ID1673,30,Female,Accessories,25.69,2024-05-26
+ID1674,30,Male,Accessories,36.74,2024-07-01
+ID1675,21,Female,Casual Wear,68.77,2024-01-25
+ID1676,26,Male,Casual Wear,79.21,2024-12-01
+ID1677,19,Female,Casual Wear,95.81,2024-06-18
+ID1678,28,Female,Casual Wear,36.62,2024-05-19
+ID1679,25,Female,Outerwear,115.87,2024-03-04
+ID1680,26,Female,Footwear,132.46,2024-07-07
+ID1681,18,Male,Casual Wear,32.56,2024-08-11
+ID1682,23,Male,Casual Wear,33.91,2024-07-23
+ID1683,21,Male,Casual Wear,26.01,2024-08-13
+ID1684,20,Female,Casual Wear,20.21,2024-07-16
+ID1685,19,Male,Streetwear,95.05,2024-06-22
+ID1686,27,Male,Accessories,35.78,2024-04-05
+ID1687,26,Male,Accessories,25.19,2024-09-11
+ID1688,23,Male,Accessories,23.1,2024-12-20
+ID1689,24,Female,Casual Wear,76.56,2024-09-11
+ID1690,20,Female,Streetwear,120.3,2024-07-07
+ID1691,29,Female,Athleisure,70.86,2024-09-22
+ID1692,21,Male,Streetwear,118.74,2024-05-16
+ID1693,24,Female,Streetwear,142.39,2024-02-12
+ID1694,26,Female,Streetwear,128.78,2024-08-05
+ID1695,21,Male,Athleisure,86.26,2024-02-10
+ID1696,21,Male,Casual Wear,72.89,2024-08-08
+ID1697,18,Female,Casual Wear,94.69,2024-11-04
+ID1698,29,Female,Athleisure,68.26,2024-04-02
+ID1699,28,Female,Streetwear,104.46,2024-10-06
+ID1700,22,Male,Casual Wear,71.81,2024-05-30
+ID1701,24,Female,Casual Wear,92.67,2024-06-13
+ID1702,27,Female,Accessories,43.93,2024-02-22
+ID1703,21,Male,Casual Wear,25.71,2024-02-10
+ID1704,29,Female,Athleisure,44.93,2024-06-16
+ID1705,24,Female,Athleisure,57.69,2024-12-04
+ID1706,28,Male,Streetwear,124.9,2024-05-31
+ID1707,22,Female,Casual Wear,65.54,2024-06-05
+ID1708,20,Female,Streetwear,78.86,2024-08-16
+ID1709,19,Female,Streetwear,62.44,2024-11-04
+ID1710,22,Male,Streetwear,118.87,2024-08-06
+ID1711,29,Female,Streetwear,119.97,2024-03-26
+ID1712,21,Female,Athleisure,114.84,2024-12-19
+ID1713,27,Female,Casual Wear,60.04,2024-08-15
+ID1714,21,Male,Streetwear,99.38,2024-06-28
+ID1715,22,Female,Casual Wear,26.44,2024-08-16
+ID1716,23,Male,Footwear,45.58,2024-01-22
+ID1717,22,Male,Streetwear,93.2,2024-06-29
+ID1718,29,Female,Accessories,26.28,2024-11-10
+ID1719,21,Male,Streetwear,75.04,2024-08-10
+ID1720,29,Female,Streetwear,59.13,2024-05-20
+ID1721,30,Female,Accessories,48.67,2024-11-23
+ID1722,28,Female,Accessories,44.26,2024-01-30
+ID1723,18,Female,Streetwear,107.52,2024-02-08
+ID1724,23,Male,Accessories,48.28,2024-12-09
+ID1725,29,Female,Athleisure,119.96,2024-11-22
+ID1726,22,Female,Casual Wear,73.78,2024-07-26
+ID1727,19,Male,Streetwear,76.95,2024-07-05
+ID1728,24,Female,Streetwear,54.02,2024-09-19
+ID1729,23,Male,Accessories,41.47,2024-12-13
+ID1730,19,Female,Athleisure,72.35,2024-03-22
+ID1731,23,Female,Streetwear,115.15,2024-01-16
+ID1732,18,Male,Casual Wear,93.29,2024-03-14
+ID1733,30,Female,Casual Wear,34.52,2024-11-07
+ID1734,18,Male,Streetwear,108.53,2024-12-13
+ID1735,23,Male,Streetwear,113.48,2024-08-12
+ID1736,25,Non-Binary,Outerwear,163.59,2024-01-18
+ID1737,24,Male,Streetwear,59.12,2024-03-05
+ID1738,23,Female,Casual Wear,47.84,2024-02-04
+ID1739,29,Female,Outerwear,136.66,2024-04-30
+ID1740,22,Female,Casual Wear,73.61,2024-11-26
+ID1741,29,Male,Streetwear,135.77,2024-07-06
+ID1742,19,Male,Footwear,86.17,2024-07-04
+ID1743,20,Female,Streetwear,119.37,2024-07-15
+ID1744,18,Male,Streetwear,78.82,2024-10-17
+ID1745,29,Male,Casual Wear,95.62,2024-01-17
+ID1746,26,Female,Outerwear,218.31,2024-11-05
+ID1747,27,Female,Streetwear,105.01,2024-03-19
+ID1748,27,Male,Casual Wear,56.39,2024-12-13
+ID1749,30,Female,Streetwear,81.45,2024-08-18
+ID1750,27,Male,Streetwear,82.33,2024-07-08
+ID1751,28,Male,Streetwear,147.02,2024-07-09
+ID1752,20,Female,Footwear,96.58,2024-08-15
+ID1753,25,Female,Outerwear,167.48,2024-02-09
+ID1754,28,Female,Casual Wear,99.05,2024-10-20
+ID1755,21,Male,Athleisure,89.19,2024-03-11
+ID1756,25,Male,Casual Wear,63.41,2024-09-28
+ID1757,20,Female,Casual Wear,53.06,2024-07-06
+ID1758,29,Female,Athleisure,46.88,2024-07-22
+ID1759,30,Male,Casual Wear,48.94,2024-06-09
+ID1760,22,Non-Binary,Streetwear,125.64,2024-11-28
+ID1761,29,Female,Casual Wear,70.03,2024-05-22
+ID1762,26,Male,Streetwear,126.0,2024-05-07
+ID1763,25,Male,Accessories,22.12,2024-02-28
+ID1764,24,Male,Streetwear,104.92,2024-01-14
+ID1765,23,Male,Accessories,47.47,2024-04-05
+ID1766,29,Male,Streetwear,93.81,2024-09-12
+ID1767,18,Female,Accessories,39.44,2024-09-22
+ID1768,25,Male,Footwear,57.0,2024-07-17
+ID1769,18,Male,Casual Wear,97.85,2024-10-14
+ID1770,26,Female,Accessories,36.31,2024-03-01
+ID1771,19,Female,Accessories,23.38,2024-05-14
+ID1772,30,Female,Casual Wear,32.67,2024-05-13
+ID1773,21,Male,Streetwear,105.08,2024-12-26
+ID1774,26,Male,Casual Wear,64.18,2024-08-16
+ID1775,21,Female,Footwear,53.05,2024-04-19
+ID1776,21,Female,Streetwear,149.23,2024-11-09
+ID1777,26,Male,Streetwear,141.29,2024-05-26
+ID1778,24,Male,Accessories,31.15,2024-12-21
+ID1779,20,Male,Footwear,56.45,2024-09-08
+ID1780,28,Female,Casual Wear,86.57,2024-04-12
+ID1781,21,Female,Casual Wear,59.87,2024-03-03
+ID1782,30,Male,Casual Wear,77.33,2024-03-10
+ID1783,24,Non-Binary,Athleisure,75.8,2024-02-07
+ID1784,24,Female,Casual Wear,41.87,2024-08-19
+ID1785,30,Male,Athleisure,105.13,2024-03-29
+ID1786,29,Male,Accessories,49.31,2024-12-31
+ID1787,24,Male,Casual Wear,39.5,2024-08-15
+ID1788,29,Male,Streetwear,105.13,2024-02-14
+ID1789,29,Male,Casual Wear,50.69,2024-12-15
+ID1790,28,Male,Casual Wear,93.75,2024-06-12
+ID1791,24,Male,Casual Wear,60.66,2024-12-07
+ID1792,21,Male,Accessories,45.78,2024-06-26
+ID1793,20,Male,Accessories,45.24,2024-12-29
+ID1794,20,Male,Accessories,24.67,2024-02-03
+ID1795,21,Female,Streetwear,129.0,2024-10-08
+ID1796,22,Female,Accessories,29.52,2024-10-04
+ID1797,19,Female,Streetwear,143.42,2024-05-28
+ID1798,18,Male,Streetwear,100.77,2024-06-02
+ID1799,28,Male,Accessories,43.72,2024-03-21
+ID1800,27,Male,Streetwear,78.28,2024-12-30
+ID1801,21,Male,Accessories,25.45,2024-12-29
+ID1802,25,Non-Binary,Streetwear,108.69,2024-12-24
+ID1803,24,Female,Outerwear,249.81,2024-11-22
+ID1804,28,Female,Casual Wear,59.17,2024-03-30
+ID1805,30,Female,Streetwear,64.86,2024-07-04
+ID1806,21,Male,Casual Wear,63.09,2024-09-17
+ID1807,19,Female,Casual Wear,47.61,2024-04-24
+ID1808,30,Male,Casual Wear,64.15,2024-03-03
+ID1809,18,Male,Casual Wear,63.47,2024-04-12
+ID1810,25,Female,Streetwear,95.53,2024-03-12
+ID1811,20,Female,Casual Wear,45.74,2024-05-01
+ID1812,20,Non-Binary,Accessories,21.6,2024-09-09
+ID1813,28,Female,Casual Wear,75.8,2024-01-14
+ID1814,25,Female,Accessories,35.01,2024-07-03
+ID1815,18,Male,Streetwear,73.36,2024-10-10
+ID1816,23,Female,Streetwear,127.55,2024-10-20
+ID1817,30,Female,Accessories,16.53,2024-07-07
+ID1818,21,Female,Streetwear,124.47,2024-08-27
+ID1819,19,Male,Accessories,39.68,2024-10-09
+ID1820,27,Female,Streetwear,131.14,2024-03-07
+ID1821,28,Female,Footwear,94.05,2024-11-09
+ID1822,28,Male,Accessories,38.23,2024-02-14
+ID1823,21,Male,Streetwear,132.07,2024-02-03
+ID1824,29,Male,Accessories,49.33,2024-06-07
+ID1825,22,Female,Streetwear,99.53,2024-07-22
+ID1826,21,Male,Casual Wear,22.96,2024-09-02
+ID1827,29,Male,Streetwear,100.23,2024-09-26
+ID1828,29,Male,Accessories,35.66,2024-07-29
+ID1829,30,Male,Streetwear,136.97,2024-07-28
+ID1830,20,Female,Footwear,162.39,2024-10-21
+ID1831,27,Non-Binary,Accessories,30.41,2024-02-07
+ID1832,28,Male,Streetwear,102.6,2024-03-05
+ID1833,20,Male,Casual Wear,56.55,2024-06-11
+ID1834,18,Female,Streetwear,122.24,2024-11-24
+ID1835,22,Female,Accessories,29.35,2024-02-07
+ID1836,26,Male,Footwear,131.67,2024-08-18
+ID1837,21,Male,Accessories,20.4,2024-08-26
+ID1838,21,Female,Streetwear,96.95,2024-12-14
+ID1839,21,Female,Accessories,48.92,2024-09-21
+ID1840,19,Male,Footwear,87.4,2024-06-25
+ID1841,18,Female,Casual Wear,75.42,2024-03-06
+ID1842,27,Female,Casual Wear,71.99,2024-10-09
+ID1843,26,Male,Casual Wear,88.14,2024-11-23
+ID1844,28,Female,Streetwear,135.23,2024-10-27
+ID1845,21,Male,Casual Wear,88.75,2024-04-03
+ID1846,27,Male,Athleisure,64.2,2024-03-07
+ID1847,25,Male,Casual Wear,45.33,2024-08-09
+ID1848,18,Female,Streetwear,121.87,2024-09-14
+ID1849,27,Male,Casual Wear,80.75,2024-01-29
+ID1850,22,Female,Streetwear,137.24,2024-03-04
+ID1851,25,Male,Athleisure,33.23,2024-09-22
+ID1852,30,Male,Accessories,17.39,2024-03-19
+ID1853,19,Female,Casual Wear,70.49,2024-06-04
+ID1854,30,Non-Binary,Athleisure,112.88,2024-03-25
+ID1855,26,Male,Casual Wear,99.79,2024-03-23
+ID1856,28,Non-Binary,Accessories,41.14,2024-06-14
+ID1857,18,Male,Accessories,30.19,2024-12-29
+ID1858,25,Male,Casual Wear,27.88,2024-04-25
+ID1859,27,Male,Casual Wear,70.7,2024-06-26
+ID1860,19,Female,Streetwear,137.26,2024-09-22
+ID1861,29,Female,Outerwear,155.43,2024-05-25
+ID1862,21,Female,Streetwear,119.4,2024-02-10
+ID1863,29,Female,Casual Wear,92.27,2024-05-08
+ID1864,21,Male,Casual Wear,23.68,2024-04-10
+ID1865,28,Male,Casual Wear,83.69,2024-11-21
+ID1866,21,Male,Casual Wear,43.47,2024-10-09
+ID1867,27,Female,Casual Wear,49.99,2024-05-20
+ID1868,21,Male,Casual Wear,31.65,2024-03-05
+ID1869,29,Female,Footwear,114.36,2024-11-16
+ID1870,29,Male,Accessories,34.81,2024-06-04
+ID1871,30,Male,Athleisure,101.33,2024-11-10
+ID1872,27,Female,Accessories,20.95,2024-09-30
+ID1873,19,Male,Outerwear,93.42,2024-02-17
+ID1874,27,Male,Casual Wear,89.67,2024-09-14
+ID1875,21,Male,Outerwear,185.35,2024-11-24
+ID1876,28,Male,Streetwear,74.08,2024-03-27
+ID1877,24,Male,Casual Wear,93.03,2024-10-30
+ID1878,29,Female,Casual Wear,31.45,2024-10-24
+ID1879,24,Male,Athleisure,71.5,2024-03-19
+ID1880,19,Male,Outerwear,123.18,2024-03-28
+ID1881,20,Female,Streetwear,75.53,2024-12-03
+ID1882,20,Female,Casual Wear,20.75,2024-11-15
+ID1883,25,Male,Casual Wear,84.37,2024-11-05
+ID1884,18,Male,Streetwear,140.12,2024-06-21
+ID1885,24,Male,Athleisure,90.98,2024-10-15
+ID1886,24,Male,Accessories,20.53,2024-01-22
+ID1887,19,Female,Casual Wear,55.34,2024-01-15
+ID1888,19,Male,Casual Wear,47.65,2024-02-11
+ID1889,22,Non-Binary,Casual Wear,67.01,2024-01-24
+ID1890,27,Female,Streetwear,113.89,2024-11-24
+ID1891,30,Male,Accessories,29.85,2024-10-22
+ID1892,19,Male,Accessories,23.75,2024-05-15
+ID1893,23,Male,Casual Wear,87.62,2024-11-29
+ID1894,23,Male,Casual Wear,35.94,2024-04-17
+ID1895,18,Male,Athleisure,64.62,2024-10-19
+ID1896,29,Male,Athleisure,73.49,2024-08-01
+ID1897,27,Female,Casual Wear,38.98,2024-11-12
+ID1898,29,Female,Footwear,120.07,2024-11-23
+ID1899,25,Non-Binary,Casual Wear,65.98,2024-01-16
+ID1900,19,Male,Accessories,49.74,2024-09-11
+ID1901,25,Female,Casual Wear,43.62,2024-11-17
+ID1902,30,Male,Outerwear,246.25,2024-10-06
+ID1903,25,Male,Casual Wear,72.66,2024-05-28
+ID1904,21,Female,Casual Wear,41.96,2024-11-24
+ID1905,26,Female,Accessories,34.81,2024-06-03
+ID1906,24,Female,Footwear,136.01,2024-09-04
+ID1907,23,Male,Streetwear,124.47,2024-05-05
+ID1908,18,Male,Streetwear,54.9,2024-12-16
+ID1909,25,Male,Streetwear,110.64,2024-07-26
+ID1910,29,Female,Streetwear,99.67,2024-06-01
+ID1911,19,Male,Casual Wear,92.33,2024-08-20
+ID1912,28,Female,Outerwear,128.65,2024-02-07
+ID1913,25,Female,Casual Wear,83.91,2024-12-18
+ID1914,26,Female,Casual Wear,68.57,2024-01-31
+ID1915,27,Male,Accessories,27.33,2024-03-21
+ID1916,24,Female,Casual Wear,70.93,2024-08-13
+ID1917,23,Male,Streetwear,112.09,2024-07-31
+ID1918,25,Male,Athleisure,91.0,2024-09-04
+ID1919,24,Female,Athleisure,94.88,2024-08-25
+ID1920,23,Female,Streetwear,115.92,2024-04-14
+ID1921,26,Male,Casual Wear,87.07,2024-06-23
+ID1922,19,Female,Accessories,36.99,2024-11-06
+ID1923,26,Female,Accessories,46.62,2024-03-14
+ID1924,30,Female,Streetwear,114.63,2024-06-09
+ID1925,24,Female,Casual Wear,44.71,2024-06-12
+ID1926,20,Male,Casual Wear,55.27,2024-06-25
+ID1927,21,Male,Streetwear,107.96,2024-07-23
+ID1928,26,Female,Casual Wear,78.59,2024-03-07
+ID1929,27,Female,Casual Wear,27.21,2024-07-08
+ID1930,19,Male,Streetwear,79.51,2024-09-20
+ID1931,18,Male,Casual Wear,79.8,2024-10-14
+ID1932,29,Male,Streetwear,67.56,2024-02-24
+ID1933,29,Female,Streetwear,63.22,2024-06-12
+ID1934,23,Female,Accessories,33.88,2024-05-03
+ID1935,20,Female,Accessories,49.0,2024-08-26
+ID1936,25,Male,Streetwear,103.09,2024-03-03
+ID1937,30,Female,Streetwear,141.35,2024-05-16
+ID1938,23,Female,Accessories,44.07,2024-08-18
+ID1939,19,Male,Footwear,75.98,2024-05-06
+ID1940,27,Male,Streetwear,132.47,2024-03-13
+ID1941,25,Male,Casual Wear,58.55,2024-02-19
+ID1942,27,Male,Casual Wear,84.52,2024-01-26
+ID1943,28,Non-Binary,Streetwear,124.66,2024-05-28
+ID1944,19,Female,Casual Wear,47.1,2024-07-15
+ID1945,23,Female,Streetwear,61.52,2024-11-11
+ID1946,22,Male,Casual Wear,97.03,2024-08-02
+ID1947,18,Female,Casual Wear,31.26,2024-05-07
+ID1948,20,Male,Casual Wear,97.32,2024-03-22
+ID1949,28,Male,Footwear,160.42,2024-06-16
+ID1950,30,Male,Casual Wear,77.94,2024-10-22
+ID1951,20,Male,Athleisure,118.19,2024-06-09
+ID1952,27,Female,Accessories,48.85,2024-04-07
+ID1953,20,Female,Footwear,152.64,2024-03-22
+ID1954,28,Male,Footwear,91.21,2024-09-12
+ID1955,21,Female,Accessories,42.67,2024-09-20
+ID1956,19,Male,Casual Wear,21.11,2024-08-27
+ID1957,18,Female,Casual Wear,62.93,2024-09-12
+ID1958,20,Male,Casual Wear,56.38,2024-06-06
+ID1959,30,Male,Footwear,134.2,2024-09-11
+ID1960,23,Non-Binary,Outerwear,194.3,2024-01-12
+ID1961,25,Male,Outerwear,179.38,2024-02-16
+ID1962,30,Female,Accessories,43.78,2024-07-20
+ID1963,27,Male,Streetwear,144.03,2024-09-15
+ID1964,27,Female,Footwear,55.17,2024-08-22
+ID1965,26,Male,Outerwear,119.75,2024-05-03
+ID1966,23,Male,Casual Wear,22.0,2024-04-20
+ID1967,24,Male,Casual Wear,90.74,2024-10-25
+ID1968,21,Female,Casual Wear,64.91,2024-06-29
+ID1969,18,Male,Athleisure,112.37,2024-01-25
+ID1970,29,Female,Streetwear,72.14,2024-01-26
+ID1971,21,Female,Casual Wear,25.06,2024-05-24
+ID1972,27,Female,Athleisure,104.15,2024-09-10
+ID1973,19,Male,Outerwear,234.6,2024-11-01
+ID1974,30,Female,Casual Wear,44.18,2024-11-30
+ID1975,27,Male,Accessories,29.29,2024-12-10
+ID1976,21,Female,Athleisure,42.58,2024-08-28
+ID1977,21,Male,Athleisure,115.16,2024-05-26
+ID1978,20,Female,Streetwear,80.44,2024-10-01
+ID1979,24,Male,Casual Wear,59.41,2024-01-05
+ID1980,19,Male,Outerwear,96.52,2024-02-25
+ID1981,27,Male,Casual Wear,90.98,2024-08-08
+ID1982,18,Male,Casual Wear,30.85,2024-03-09
+ID1983,19,Male,Casual Wear,56.29,2024-05-15
+ID1984,23,Female,Athleisure,90.34,2024-07-06
+ID1985,27,Male,Athleisure,96.88,2024-07-25
+ID1986,29,Female,Footwear,172.44,2024-07-06
+ID1987,24,Male,Casual Wear,53.53,2024-01-24
+ID1988,27,Male,Casual Wear,79.38,2024-07-24
+ID1989,18,Male,Streetwear,65.45,2024-01-27
+ID1990,22,Male,Outerwear,150.53,2024-10-18
+ID1991,23,Male,Streetwear,59.9,2024-10-14
+ID1992,27,Female,Footwear,108.51,2024-04-09
+ID1993,21,Female,Streetwear,90.81,2024-07-04
+ID1994,20,Female,Accessories,48.3,2024-10-10
+ID1995,25,Female,Streetwear,53.27,2024-05-27
+ID1996,21,Male,Accessories,27.97,2024-02-07
+ID1997,27,Female,Accessories,30.52,2024-07-16
+ID1998,25,Female,Casual Wear,96.04,2024-09-15
+ID1999,29,Male,Outerwear,225.43,2024-08-18
