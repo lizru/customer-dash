@@ -1,5 +1,5 @@
 ## Customer dashboard
-A basic customer dashboard to quickly display key metrics online through Streamlit.
+A basic customer dashboard to quickly display recent key metrics of a business online through Streamlit, designed for CSV data. Includes two synthetically generated datasets created for drafts, each with their own demographics.
 
 ### Files:
 **sample.py**
