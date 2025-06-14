@@ -118,7 +118,7 @@ if uploaded_file is not None:
 
     st.header("Historical Purchase Data")
     st.markdown("<br>", unsafe_allow_html=True)
-
+ 
     st.subheader("Purchases over Time")
     plot_purchase_times(df)
     st.markdown("<br>", unsafe_allow_html=True)
